@@ -16,5 +16,3 @@ hack react
 ### 资源
 
 - [react](https://reactjs.org)
-
-
