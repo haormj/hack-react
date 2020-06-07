@@ -14,7 +14,9 @@ hack react
 - [trjsx](trjsx) - Try React with JSX
 - [ajsxp](ajsxp) - Add JSX to a Project
 - [clock](clock) - Clock
+- [my-app](my-app) - npx create-react-app my-app
 
 ### 资源
 
 - [react](https://reactjs.org)
+- [create react app](https://github.com/facebook/create-react-app)
