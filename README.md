@@ -13,6 +13,7 @@ hack react
 - [arom](arom) - Add React in One Minute
 - [trjsx](trjsx) - Try React with JSX
 - [ajsxp](ajsxp) - Add JSX to a Project
+- [clock](clock) - Clock
 
 ### 资源
 
