@@ -12,6 +12,7 @@ hack react
 - [helloworld](helloworld) - hello world, react
 - [arom](arom) - Add React in One Minute
 - [trjsx](trjsx) - Try React with JSX
+- [ajsxp](ajsxp) - Add JSX to a Project
 
 ### 资源
 
